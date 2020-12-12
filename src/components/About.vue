@@ -7,8 +7,6 @@
 
 <script>
 export default {
- deactivated() {
-    console.log("deactivated");
-  } 
+ 
 }
 </script>
